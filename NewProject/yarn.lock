@@ -5540,6 +5540,11 @@ react-native-actions-sheet@^0.9.0-alpha.24:
   resolved "https://registry.npmjs.org/react-native-actions-sheet/-/react-native-actions-sheet-0.9.0-alpha.24.tgz"
   integrity sha512-NF0oO0vf3DrFsqI+pbQ+HTG2q+VEotkVwhtFr8aLiUFJT876icVOSurCaeqD1t4zHtH2U5qa8vKQxbA/j5Mu8w==
 
+react-native-date-picker@^4.3.5:
+  version "4.3.5"
+  resolved "https://registry.npmjs.org/react-native-date-picker/-/react-native-date-picker-4.3.5.tgz"
+  integrity sha512-jKOGCM2AUkRJb+tXYiwFHLfbB1Jh7OWXH4TxhLsuh7DWMXpWgUN3cGlFr3vl7G4wy45raAyPqmsZNSqmMr/98g==
+
 react-native-gesture-handler@^2.14.1:
   version "2.14.1"
   resolved "https://registry.npmjs.org/react-native-gesture-handler/-/react-native-gesture-handler-2.14.1.tgz"
